@@ -1,4 +1,4 @@
-# Projet
+# Project
 
 Ce dossier est prévu pour développer et présenter votre projet.
 

@@ -18,6 +18,6 @@ Voici une liste de documents qui vous seront utils lors de votre formation mobil
 - [Capacitor](https://capacitor.ionicframework.com/docs/web/)
 
 ## Autres
-- [Bash Caoomades](https://gist.github.com/LeCoupa/122b12050f5fb267e75f)
+- [Bash Commandes](https://gist.github.com/LeCoupa/122b12050f5fb267e75f)
 - [Git Commandes](https://gist.github.com/aquelito/8596717)
 - [JSON Server (Local Web Server API)](https://github.com/typicode/json-server#getting-started)

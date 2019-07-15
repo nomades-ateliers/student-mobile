@@ -1,6 +1,6 @@
 # Student Mobile Profile
 
-Ce repository contient tous les elements et ressources dont vous avez pour votre formation. 
+Ce repository contient tous les elements et ressources dont vous avez besoin pour votre formation. 
 
 Il est organisé en trois dossier:
 

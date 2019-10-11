@@ -1,4 +1,4 @@
-# Student Mobile Profile
+# Student Profile
 
 Ce repository contient tous les elements et ressources dont vous avez besoin pour votre formation. 
 
